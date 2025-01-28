@@ -8,3 +8,6 @@ UC Berkeley Spring 2025, taught by Dr Richard Dorrance and Professor Borivoje Ni
 - Chisel print debug statements: `printf(s"numWords = $numWords, dataWidth = $dataWidth, patterns = $patterns\n")`
 
 ### Lab 2 Learning Points
+
+### Acronyms
+- FIRRTL: Flexible Intermediate Representation for RTL
