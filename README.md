@@ -19,3 +19,4 @@ source env.sh
 ### Acronyms
 - FIRRTL: Flexible Intermediate Representation for RTL, similar concept to intermediate language in compilers.
 - DRC: Design Rule Checking
+- P&R: Place and Route
