@@ -21,10 +21,10 @@ module tb_top();
 		d <= 0;
 
 		#10 resetn <= 1;
-		#5      d <= 1;
-		#8      d <= 0;
-		#2      d <= 1;
-		#10     d <= 0;
+		#5 d <= 1;
+		#8 d <= 0;
+		#2 d <= 1;
+        #10 d <= 0;
         $display("[%0t] PASS", $time);
         $finish();
 	end
