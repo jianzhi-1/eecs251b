@@ -16,6 +16,9 @@ cd /scratch/$USER/sp25-chipyard-***/
 source env.sh
 ```
 
+### Lab 4 Learning Points
+- Remember to `source ~/.bashrc` to activate the conda environment...
+
 ### Acronyms
 - FIRRTL: Flexible Intermediate Representation for RTL, similar concept to intermediate language in compilers.
 - DRC: Design Rule Checking
