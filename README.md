@@ -10,7 +10,7 @@ UC Berkeley Spring 2025, taught by Dr Richard Dorrance and Professor Borivoje Ni
 ### Lab 3 Learning Points
 - Always SSH with -X flag.
 ```
-ssh -X eecs251b-***@eda-*.eecs.berkeley.edu
+ssh -AXY eecs251b-***@eda-*.eecs.berkeley.edu
 source ~/.bashrc
 cd /scratch/$USER/sp25-chipyard-***/
 source env.sh
