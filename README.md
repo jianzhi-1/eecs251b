@@ -19,6 +19,9 @@ source env.sh
 ### Lab 4 Learning Points
 - Remember to `source ~/.bashrc` to activate the conda environment...
 
+### Lab 5 Learning Points
+- In VSCode `settings.json`, add `"search.useIgnoreFiles": false` to also search files hidden by `.gitignore`.
+
 ### Acronyms
 - FIRRTL: Flexible Intermediate Representation for RTL, similar concept to intermediate language in compilers.
 - DRC: Design Rule Checking
