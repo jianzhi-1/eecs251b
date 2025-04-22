@@ -22,6 +22,9 @@ source env.sh
 ### Lab 5 Learning Points
 - In VSCode `settings.json`, add `"search.useIgnoreFiles": false` to also search files hidden by `.gitignore`.
 
+### Project Learning Points
+- Blackboxes won't be synthesised (synthesis is verilog -> netlist, so if the verilog is a stub, there won't be a netlist)
+
 ### Acronyms
 - FIRRTL: Flexible Intermediate Representation for RTL, similar concept to intermediate language in compilers.
 - DRC: Design Rule Checking
